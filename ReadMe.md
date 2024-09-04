@@ -1,6 +1,7 @@
 # 💫 About Me:
-I am currently working on my C programming skills <br>I have a strong hold on python, javascript, and basic webdev techniques.<br>I also have experience in builing a full fledged desktop app anime streaming [Oniyama](https://shuvadip-ghosh.github.io/Oniyama/)<br>I am a student of BSc computer science in St. Xaviers college Kolkata
+I am currently focused on refining my skills in C programming, deepening my understanding of the<br>language to build efficient and robust applications. Alongside C, I have a strong command of Python<br>and JavaScript, which I use to create dynamic and interactive web applications. My experience in web<br>development includes mastering foundational techniques that allow me to build responsive and<br>user-friendly websites.
 
+In addition to web development, I have successfully developed a full-fledged desktop application<br>called [Oniyama](https://shuvadip-ghosh.github.io/Oniyama/), an anime streaming platform built using the Electron.js framework. This project<br>showcases my ability to create complex, feature-rich software solutions that blend the power of web<br>technologies with the flexibility of desktop applications. My academic journey in technology is<br>supported by my pursuit of a B.Sc. in Computer Science at St. Xavier's College, Kolkata, where I am<br>constantly learning and applying new concepts to further my expertise in the field.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shuvgaveup) 
